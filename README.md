@@ -8,14 +8,14 @@ How geospatial information and related technologies are utilized to share disast
 
 ## Date
 
-February 25-27, 2020
+25-27 February 2020
 
 ## Venue
 
 Internatioal Conference Hall, JICA Global Plaza, Tokyo, Japan
 
-## Draft agenda as of 2019-11-20
-### DAY 1 2020-02-25 Tue: Seminar (all day)
+## Draft agenda as of 20 November 2019
+### DAY 1 Tuesday 25 February 2020: Seminar (all day)
 
 1. Opening and welcome
 2. Keynotes
@@ -25,12 +25,12 @@ Internatioal Conference Hall, JICA Global Plaza, Tokyo, Japan
 
 Welcome reception
 
-### DAY 2 2020-02-26 Wed: Seminar (am) and Exercise (pm)
+### DAY 2 Wednesday 26 February 2020: Seminar (am) and Exercise (pm)
 
 6. Session 4 *Disaster Response using Geospatial Information - Case Report -*
 7. Wrap-up - Conclusive Words -
 
 Scenario-based Exercise on Web-based Disaster Information Sharing
 
-### DAY 3 2020-02-27 Thu: Technical Tour (all day)
+### DAY 3 Thursday 27 February 2020: Technical Tour (all day)
 The Technical Tour is for the employees of governments and internatioal organizations only. 
