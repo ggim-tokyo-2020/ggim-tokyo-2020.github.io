@@ -21,7 +21,7 @@ Internatioal Conference Hall, JICA Global Plaza, Tokyo, Japan
 2. Keynotes
 3. Session 1 *Contribution of Geodesy to Disaster Risk Reduction*
 4. Session 2 *Collaboration with Stakeholders of Disaster Risk Reduction*
-5. Session 3 *Geospatial Technology agains Disasters*
+5. Session 3 *Geospatial Technology against Disasters*
 
 Welcome reception
 
