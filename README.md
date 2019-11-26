@@ -12,7 +12,7 @@ How geospatial information and related technologies are utilized to share disast
 
 ## Venue
 
-Tokyo, Japan
+International Conference Hall, JICA Global Plaza, Tokyo
 
 ## Draft agenda as of 20 November 2019 ([PDF](https://ggim-tokyo-2020.github.io/agenda.pdf))
 ### DAY 1 Tuesday 25 February 2020: Seminar (all day)
