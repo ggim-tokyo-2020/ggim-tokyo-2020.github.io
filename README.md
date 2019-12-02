@@ -36,4 +36,4 @@ Scenario-based Exercise on Web-based Disaster Information Sharing
 The Technical Tour is for the employees of governments and internatioal organizations only. 
 
 # Registration
-Please send us the [Registration Form](registration.docx). We also have [Hotel Information Note](hotels.pdf) for your reference. 
+Please send us the [Registration Form](registration.docx). We also have a [Hotel Information Note](hotels.pdf) for your reference. 
