@@ -33,7 +33,7 @@ Welcome reception
 Scenario-based Exercise on Web-based Disaster Information Sharing
 
 ### DAY 3 Thursday 27 February 2020: Technical Tour (all day)
-The Technical Tour is for the employees of governments and internatioal organizations only. 
+The [Technical Tour](technical_tour.pdf) is for the employees of governments and internatioal organizations only. 
 
 # Registration
 Please send us the [Registration Form](registration.docx). We also have a [Hotel Information Note](hotels.pdf) for your reference. 
