@@ -37,4 +37,4 @@
 [視察](technical_tour.pdf) は政府や国際機関の職員向けです。
 
 # 登録
-[登録フォーム](registration.docx)を送って下さい。ご参考までに[ホテル情報ノートHotel Information Note](hotels.pdf)もあります。 
+[登録フォーム](registration.docx)を送って下さい。ご参考までに[ホテル情報ノート](hotels.pdf)もあります。 
