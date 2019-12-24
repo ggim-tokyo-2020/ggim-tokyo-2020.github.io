@@ -1,3 +1,4 @@
+# General information
 ## Objectives
 
 We aim at **capacity building** such as **sharing knowledge** and **technology transfer**.
@@ -5,6 +6,8 @@ We aim at **capacity building** such as **sharing knowledge** and **technology t
 ## Theme
 
 How geospatial information and related technologies are utilized to share disaster related information and disaster risk information.
+
+## [Concept Note](concept_note.md)
 
 ## Date
 
