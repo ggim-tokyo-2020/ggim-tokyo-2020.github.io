@@ -1,3 +1,5 @@
+![banner](banner.jpg)
+
 # Draft Concept Note for the UN-GGIM WG-Disasters Conference 2020
 
 Relevant geospatial organizations of the United Nations Member States are transforming our world by interdisciplinary and cross-sector cooperation with other government organizations, academia, and the private sector, among others. We contribute to the implementation of the Sustainable Development Goals. We assist better understanding, management, and reduction of disaster risks. We support building back better from the disasters. 
