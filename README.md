@@ -1,5 +1,6 @@
 ![banner](banner.jpg)
 # General information
+English/[日本語](ja)
 ## Objectives
 
 We aim at **capacity building** such as **sharing knowledge** and **technology transfer**.
