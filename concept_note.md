@@ -17,3 +17,5 @@ In responding disasters, geospatial information faces a great trial on its relev
 In the afternoon on the second day of the conference, we conduct a scenario-based exercise hosted by the Task Group B of the UN-GGIM WG-Disasters. Each participant of the exercise will implement a small web-based disaster geospatial information sharing platform on a single-board computer using the UNVT developed under the United Nations Open GIS Initiative. 
 
 A technical tour for the United Nations Member State government officers and the staff of international organizations will follow the conference. 
+
+Back to [General Information](https://ggim-tokyo-2020.github.io/)
