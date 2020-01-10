@@ -19,7 +19,7 @@ How geospatial information and related technologies are utilized to share disast
 
 International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo
 
-## Draft agenda as of 23 December 2019 ([PDF](https://ggim-tokyo-2020.github.io/agenda.pdf))
+## Draft agenda as of 23 December 2019
 ### DAY 1 Tuesday 25 February 2020: Seminar (all day)
 
 1. Opening & Welcome Address
