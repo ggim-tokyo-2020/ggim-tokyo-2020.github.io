@@ -6,8 +6,6 @@ Please note the link for download/upload will be updated regularly.
 
 [Upload](https://file-transport-E1.mlit.go.jp/mb/cgi-bin/index.cgi/upload/-7FFDTzzPLeclOcR05TRAA/KC3pjuAFSVOAjUl7Hy0I_w/)
 
-Validity period: until 11 February 2020
-
 If you have any questions, please contact the secretariat below.
 
 gsi-tokyo2020#gxb.mlit.go.jp (replace # with @)
