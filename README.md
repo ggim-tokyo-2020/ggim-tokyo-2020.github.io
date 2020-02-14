@@ -1,6 +1,9 @@
 ![banner](banner.jpg)
 # General information
 English/[日本語](ja)
+
+## [Programme](programme.pdf), updated on 14 February 2020
+
 ## Objectives
 
 We aim at **capacity building** such as **sharing knowledge** and **technology transfer**.
