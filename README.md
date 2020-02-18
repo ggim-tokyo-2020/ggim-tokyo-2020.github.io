@@ -5,7 +5,7 @@ English/[日本語](ja)
 ## Information about the novel Corona virus situation
 The local Host would like to inform the novel Corona virus situation in Japan, as of 17th February. According to the information officially opened by the Ministry of Health, Labour and Welfare of Japan, the total number of patients in Japan is 47, including one(1) death. 6 patient of the 47 was found in Tokyo metropolitan area. The other mass media tells the number of patients over 400 in Japan, but most of them were found in a cruise ferry and they are isolated.
 
-During the conference, we will prepare anti-virus hand wash and also provide sanitary masks at the venue. There is no cancellation from conference participants expect Chinese delegation.
+During the conference, we will prepare anti-virus hand wash and also provide sanitary masks at the venue. There is no cancellation from conference participants except Chinese delegation.
 
 We hope this information will help you. We will also let you know any updates as soon as possible if we have any change on the conference.
 
