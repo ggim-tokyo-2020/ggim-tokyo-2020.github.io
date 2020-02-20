@@ -1,6 +1,5 @@
 ![banner](banner.jpg)
 # General information
-English/[日本語](ja)
 
 ## Information about the novel Corona virus situation
 The local Host would like to inform the novel Corona virus situation in Japan, as of 19 February. According to the official information from the Ministry of Health, Labour and Welfare of Japan, the total number of patients in Japan is 59 including 1 death. Among them 10 patients are residents of Tokyo metropolis. The other mass media tells the number of patients over 600 in Japan, but most of them were found in a cruise ferry and they are isolated.
@@ -23,7 +22,7 @@ How geospatial information and related technologies are utilized to share disast
 
 ## Date
 
-25-27 February 2020
+25-26 February 2020
 
 ## Venue
 
@@ -38,8 +37,6 @@ International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo
 4. Session 2 *Utilization of Geospatial Information by Stakeholders of Disaster Risk Reduction*
 5. Session 3 *Disaster Response and Building Resilience using Geospatial Information*
 
-Welcome reception
-
 ### DAY 2 Wednesday 26 February 2020: Seminar (am) and Exercise (pm)
 
 <ol start='6'>
@@ -48,9 +45,3 @@ Welcome reception
 </ol>
 
 Scenario-based Exercise on Web-based Disaster Information Sharing
-
-### DAY 3 Thursday 27 February 2020: Technical Tour (all day)
-The [Technical Tour](technical_tour.pdf) is for the employees of governments and internatioal organizations only. 
-
-# Registration
-Registration has been closed on 13 February 2020. 
