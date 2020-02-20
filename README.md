@@ -9,7 +9,7 @@ During the conference, we will prepare anti-virus hand wash and also provide san
 
 We hope this information will help you. We will also let you know any updates as soon as possible if we have any change on the conference.
 
-## [Programme](programme.pdf), updated on 1 February 2020
+## [Programme](programme.pdf), updated on 20 February 2020
 
 ## Objectives
 
