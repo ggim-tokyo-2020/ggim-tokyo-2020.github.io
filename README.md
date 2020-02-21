@@ -31,18 +31,20 @@ How geospatial information and related technologies are utilized to share disast
 
 <strike>International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo</strike>
 
-<strike>
 ## Draft agenda as of 7 February 2020 ([PDF](agenda.pdf))
 ### DAY 1 Tuesday 25 February 2020: Seminar (all day)
 
+<strike>
 1. Opening & Welcome Address
 2. Keynote Lecture
 3. Session 1 *Contribution of Geodesy and Geospatial Information to Disaster Risk Reduction*
 4. Session 2 *Utilization of Geospatial Information by Stakeholders of Disaster Risk Reduction*
 5. Session 3 *Disaster Response and Building Resilience using Geospatial Information*
+</strike>
 
 ### DAY 2 Wednesday 26 February 2020: Seminar (am) and Exercise (pm)
 
+<strike>
 <ol start='6'>
  <li>Session 4 <i>Geospatial Technology against Disasters</i></li>
  <li>Wrap-up - Conclusive Words -</li>
