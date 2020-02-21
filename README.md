@@ -1,4 +1,7 @@
 ![banner](banner.jpg)
+
+<font color="#ff0000">We decided to postpone the UN-GGIM WG-Disasters Conference 2020 until the coronavirus situation will be improved. We are really sorry for the inconvenience this will cause.</font>
+
 # General information
 
 ## Information about the novel Corona virus situation
@@ -8,7 +11,7 @@ During the conference, we will prepare anti-virus hand wash and also provide san
 
 We hope this information will help you. We will also let you know any updates as soon as possible if we have any change on the conference.
 
-## [Programme](programme.pdf), updated on 20 February 2020
+## <strike>[Programme](programme.pdf), updated on 20 February 2020</strike>
 
 ## Objectives
 
@@ -22,12 +25,13 @@ How geospatial information and related technologies are utilized to share disast
 
 ## Date
 
-25-26 February 2020
+<strike>25-26 February 2020</strike>
 
 ## Venue
 
-International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo
+<strike>International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo</strike>
 
+<strike>
 ## Draft agenda as of 7 February 2020 ([PDF](agenda.pdf))
 ### DAY 1 Tuesday 25 February 2020: Seminar (all day)
 
@@ -45,3 +49,4 @@ International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo
 </ol>
 
 Scenario-based Exercise on Web-based Disaster Information Sharing
+</strike>
