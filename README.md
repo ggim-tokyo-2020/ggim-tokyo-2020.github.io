@@ -35,11 +35,13 @@ How geospatial information and related technologies are utilized to share disast
 ### DAY 1 Tuesday 25 February 2020: Seminar (all day)
 
 <strike>
-1. Opening & Welcome Address
-2. Keynote Lecture
-3. Session 1 *Contribution of Geodesy and Geospatial Information to Disaster Risk Reduction*
-4. Session 2 *Utilization of Geospatial Information by Stakeholders of Disaster Risk Reduction*
-5. Session 3 *Disaster Response and Building Resilience using Geospatial Information*
+<ol>
+  <li>Opening & Welcome Address</li>
+  <li>Keynote Lecture</li>
+  <li>Session 1 <i>Contribution of Geodesy and Geospatial Information to Disaster Risk Reduction</i></li>
+  <li>Session 2 <i>Utilization of Geospatial Information by Stakeholders of Disaster Risk Reduction</i></li>
+  <li>Session 3 <i>Disaster Response and Building Resilience using Geospatial Information</i></li>
+</ol>
 </strike>
 
 ### DAY 2 Wednesday 26 February 2020: Seminar (am) and Exercise (pm)
