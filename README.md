@@ -25,7 +25,7 @@ How geospatial information and related technologies are utilized to share disast
 
 ## Date
 
-25-26 February 2020 (postponed)
+<strike>25-26 February 2020</strike> (postponed)
 
 ## Venue
 
