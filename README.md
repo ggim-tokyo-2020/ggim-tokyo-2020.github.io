@@ -11,7 +11,7 @@ During the conference, we will prepare anti-virus hand wash and also provide san
 
 We hope this information will help you. We will also let you know any updates as soon as possible if we have any change on the conference.
 
-## <strike>[Programme](programme.pdf), updated on 20 February 2020</strike>
+## [Programme](programme.pdf), updated on 20 February 2020
 
 ## Objectives
 
@@ -25,16 +25,15 @@ How geospatial information and related technologies are utilized to share disast
 
 ## Date
 
-<strike>25-26 February 2020</strike>
+25-26 February 2020 (postponed)
 
 ## Venue
 
-<strike>International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo</strike>
+International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo (postponed)
 
 ## Draft agenda as of 7 February 2020 ([PDF](agenda.pdf))
 ### DAY 1 Tuesday 25 February 2020: Seminar (all day)
 
-<strike>
 <ol>
   <li>Opening & Welcome Address</li>
   <li>Keynote Lecture</li>
@@ -42,15 +41,12 @@ How geospatial information and related technologies are utilized to share disast
   <li>Session 2 <i>Utilization of Geospatial Information by Stakeholders of Disaster Risk Reduction</i></li>
   <li>Session 3 <i>Disaster Response and Building Resilience using Geospatial Information</i></li>
 </ol>
-</strike>
 
 ### DAY 2 Wednesday 26 February 2020: Seminar (am) and Exercise (pm)
 
-<strike>
 <ol start='6'>
  <li>Session 4 <i>Geospatial Technology against Disasters</i></li>
  <li>Wrap-up - Conclusive Words -</li>
 </ol>
 
 Scenario-based Exercise on Web-based Disaster Information Sharing
-</strike>
