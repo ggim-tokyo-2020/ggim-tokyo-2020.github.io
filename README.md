@@ -44,6 +44,8 @@ International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo (postponed
   <li>Session 3 <i>Disaster Response and Building Resilience using Geospatial Information</i></li>
 </ol>
 
+Welcome reception
+
 ### DAY 2 Wednesday 26 February 2020: Seminar (am) and Exercise (pm)
 
 <ol start='6'>
@@ -52,3 +54,6 @@ International Conference Hall, [JICA Global Plaza](access.pdf), Tokyo (postponed
 </ol>
 
 Scenario-based Exercise on Web-based Disaster Information Sharing
+
+### DAY 3 Thursday 27 February 2020: Technical Tour (all day)
+The [Technical Tour](technical_tour.pdf) is for the employees of governments and internatioal organizations only. 
