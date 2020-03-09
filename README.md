@@ -1,5 +1,7 @@
 ![banner](banner.jpg)
 
+English/[日本語](https://ggim-tokyo-2020.github.io/ja/)
+
 <font color="#ff0000">We decided to postpone the UN-GGIM WG-Disasters Conference 2020 until the coronavirus situation will be improved. We are really sorry for the inconvenience this will cause.</font>
 
 # General information
